@@ -403,8 +403,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.14}
-  m_Radius: 0.32
+  m_Offset: {x: 0, y: -0.09}
+  m_Radius: 0.28
 --- !u!1 &558292240
 GameObject:
   m_ObjectHideFlags: 0
@@ -764,6 +764,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1256199315}
   - component: {fileID: 1256199316}
+  - component: {fileID: 1256199317}
   m_Layer: 0
   m_Name: spritesheet-enemies-default_31
   m_TagString: Untagged
@@ -841,6 +842,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1256199317
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1256199314}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9317ac27138389643a9a68e592cf696b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1257798657
 GameObject:
   m_ObjectHideFlags: 0
@@ -943,6 +966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1261368912}
   - component: {fileID: 1261368913}
+  - component: {fileID: 1261368914}
   m_Layer: 0
   m_Name: spritesheet-characters-default_13
   m_TagString: Untagged
@@ -1020,6 +1044,28 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &1261368914
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261368911}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3320d7da5d7f197428fe7256b52e24df, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1327057537
 GameObject:
   m_ObjectHideFlags: 0
