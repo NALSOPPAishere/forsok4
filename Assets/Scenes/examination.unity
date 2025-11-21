@@ -508,7 +508,7 @@ GameObject:
   - component: {fileID: 545945104}
   - component: {fileID: 545945107}
   m_Layer: 0
-  m_Name: spritesheet-enemies-default_4
+  m_Name: mouse
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1287,7 +1287,7 @@ GameObject:
   - component: {fileID: 952324293}
   - component: {fileID: 952324296}
   m_Layer: 0
-  m_Name: spritesheet-enemies-default_21
+  m_Name: fly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2194,7 +2194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1510510023}
   m_Layer: 0
-  m_Name: groundblocks
+  m_Name: groundblocks_and_obstacles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
